@@ -13,8 +13,8 @@ This documentation contains various structured query languages detailing;
 
   ### DATA COLLECTED
 The data set includes the following key columns;
-- Order ID: This is a unique number that is assigned to differentiate products being ordered for
-- Order Date: This shows the date order is placed 
+- Order ID: This is a unique number that is assigned to differentiate products being ordered by customers 
+- Order Date: This shows the date an order is placed 
 - Order Quantity: This shows the number of products ordered
 - Sales: This is price multiply by quantity 
 - Ship Mode: This shows the various transportation means deployed by KMS Company to deliver products as requested by customers 
